@@ -1,0 +1,1 @@
+il file carouselLenght è untracked perchè non è stato ancora aggiunto allo stage con  il git add
